@@ -7,4 +7,4 @@
 
 This tokenizer is trained on more than **3.2** million rows of data.
 
-* To get more info about the data I used, check out dataset page on [🤗Face Datasets](https://huggingface.co/datasets/ali619/corpus-dataset-normalized-for-persian-and-english)
+* To get more info about the data I used, check out dataset page on [🤗Datasets](https://huggingface.co/datasets/ali619/corpus-dataset-normalized-for-persian-and-english)
